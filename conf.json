@@ -1,0 +1,15 @@
+{
+	"show_video": false,
+	"use_email": true,
+	"email_account": "codevanwolf@gmail.com",
+	"email_pwd": "Al&Cal_IDS+",
+	"dest_email_account": "alanjvano@gmail.com",
+	"min_upload_seconds": 3.0,
+	"min_motion_frames": 2,
+	"camera_warmup_time": 2.5,
+	"delta_thresh": 4,
+	"resolution": [1920,1080],
+	"fps": 10,
+	"min_area": 500,
+	"hd": true
+}
